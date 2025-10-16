@@ -135,7 +135,7 @@ Generated files:
 
 ---
 
-### Author
+## Author
 **Daniel Fitz, MBA, MSc, BSc**  
 Vienna, Austria  
 Developer & Security Technologist — *Post-Quantum Cryptography, Blockchain/Digital Ledger & Simulation*  
@@ -146,7 +146,7 @@ Former Officer of the German Federal Armed Forces
 
 ---
 
-### License
+## License
 **MIT License** — free for educational and research use.  
 Attribution required for redistribution or commercial adaptation.
 

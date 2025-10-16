@@ -118,13 +118,6 @@ Generated files:
 
 ---
 
-## License
-
-Licensed under the **MIT License**.  
-(c) 2025 Daniel Fitz
-
----
-
 ## Notes
 
 - The project is designed for **educational and experimental use** in high-entropy generation and PQC-related data transformation.
@@ -139,6 +132,23 @@ Licensed under the **MIT License**.
 - Implement export to binary entropy files
 - Integrate with PQC key-test harness
 - Optional GPU acceleration (OpenCL / CUDA)
+
+---
+
+### Author
+**Daniel Fitz, MBA, MSc, BSc**  
+Vienna, Austria  
+Developer & Security Technologist — *Post-Quantum Cryptography, Blockchain/Digital Ledger & Simulation*  
+C/C++ · C# · Java · Python · Visual Basic · ABAP · JavaScript/TypeScript
+
+International Accounting · Macroeconomics & International Relations · Physiotherapy · Computer Sciences  
+Former Officer of the German Federal Armed Forces
+
+---
+
+### License
+**MIT License** — free for educational and research use.  
+Attribution required for redistribution or commercial adaptation.
 
 ---
 
